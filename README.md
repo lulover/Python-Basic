@@ -2,7 +2,7 @@
 Python basic for data analysis
 
 
-### Encoding  
+### [Encoding](https://github.com/mizykk/Python-Basic/blob/master/Encoding.ipynb)
   - pd.get_dummies()
   - pd.Categorical.codes
   - sklearn.LabelEncoder()
